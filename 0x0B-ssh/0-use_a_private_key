@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# connects to a server using ssh
+ssh -i ssh 433162ab5a3a@433162ab5a3a.f79bebe3.alx-cod.online
